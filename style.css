@@ -53,10 +53,15 @@ nav {
 /*added image specifics*/
 img {
 	width: 40%;
+<<<<<<< HEAD
   height: 60%;
   margin: auto;
   display: block;
 
+=======
+  margin: auto;
+  display: block;
+>>>>>>> 5b23e937270d87aa47d6059f4bb0f2a0f966ee41
 }
 
 a:link{
